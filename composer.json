@@ -1,5 +1,5 @@
 {
-  "name": "0hr/php-webview",
+  "name": "assert6/php-webview",
   "description": "Php zserge's Webview bindings",
   "license": "MIT",
   "autoload": {
