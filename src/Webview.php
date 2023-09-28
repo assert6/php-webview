@@ -1,4 +1,6 @@
-<?php namespace PhpWebView;
+<?php 
+
+namespace PhpWebView;
 
 use Closure;
 use FFI;
